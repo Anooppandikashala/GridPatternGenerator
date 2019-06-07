@@ -1,7 +1,6 @@
 # GridPatternGenerator
 
-Download the repo and open index.html
-
+Download the repo and open index.html in your favourite web-browser
 
 
 ## Images :
